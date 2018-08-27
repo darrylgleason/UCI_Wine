@@ -1,4 +1,4 @@
-This work is used to evalute the University of California Urvine (UCI) Machine Learning Repository "Wine" data set (https://archive.ics.uci.edu/ml/index.php). The intent is to evaluate various classification models and accurately predict a wine's class based on 13 features including its alcohol content, color intensity, etc.
+This work is used to evaluate the University of California Irvine (UCI) Machine Learning Repository "Wine" data set (https://archive.ics.uci.edu/ml/index.php). The intent is to evaluate various classification models and accurately predict a wine's class based on 13 features including its alcohol content, color intensity, etc.
 
 The data is imported and processed before a (1) k-nearest neighbors (kNN) and (2) support vector machine (SVM) model are used to make predictions. Both methods' hyperparameters are chosen using grid-searches with cross-validation.
 
